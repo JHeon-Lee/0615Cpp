@@ -8,5 +8,5 @@ public:
 		: Person(name)
 	{}
 
-	void Teach() {}
+	void Teach() {} // »Æ¿Â
 };

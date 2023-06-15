@@ -31,3 +31,5 @@ int main()
 
 	return 0;
 }
+
+// Up, Down casting 사용 이유 : 다형성과 코드 재사용성을 위해

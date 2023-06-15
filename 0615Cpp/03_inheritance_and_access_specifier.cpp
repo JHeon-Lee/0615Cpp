@@ -51,7 +51,7 @@ public:
     {
         //Test();
         //publicData;
-        //protectedData; 모두 불가 --> private Base 가 우선시되서
+        //protectedData; 모두 불가 --> 상속 접근 지정자 private 가 우선시됨
     }
 };
 
